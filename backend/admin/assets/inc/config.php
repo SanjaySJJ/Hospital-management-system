@@ -1,7 +1,7 @@
 <?php
-$dbuser="azureuser";
+$dbuser="root";
 $dbpass="Test@123";
-$host="";
-$db="hmisphp";
+$host="localhost";
+$db="hos";
 $mysqli=new mysqli($host,$dbuser, $dbpass, $db);
 ?>
