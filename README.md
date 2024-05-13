@@ -116,6 +116,7 @@ Responsibilities:Give step by step voice to guide the project
 Azure Services used 
 AZURE SERVICES USED:
  
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/903138c6-05d5-46f7-9bdd-90d3fa2fefa6)
 
  
 
