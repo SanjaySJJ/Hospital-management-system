@@ -78,7 +78,7 @@ Create a MySQL Database
 Log in to the Azure Portal.
 Navigate to "Azure Database for MySQL" and create a new MySQL database.
 Note down the connection details (server name, username, password, etc.).
-Import Database Schema
+**Import Database Schema**
 Export the hmisphp.sql file from the CRMS project.
 Import this file into your Azure MySQL database using Azure Database for MySQL Tools or Azure Data Studio.
 
