@@ -126,51 +126,98 @@ AZURE SERVICES USED:
 ![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/a463139d-d092-4aa5-b616-68e01f6bfdbe)
 
 
- 
 
 
 
- 
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/cc3e88d3-4084-42aa-b920-7e3d5346861b)
 
 
 
- 
-
- 
 
 
- 
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/74cc92b8-9052-467a-94a2-a0faeeb43a77)
+
+
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/878c2ca5-6e12-44ef-90af-23d926310dd8)
+
+
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/bef28b6d-62e4-429f-a4ed-d3cfd97ea40c)
+
+
+
+
+
+
 
 
 PROJECT LAYOUTS:
- 
 
- 
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/4b912994-e27e-47f9-b853-6c7b1dfd2cba)
+
+
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/43926752-b386-4005-9f89-af667a6d9e21)
+
+
+
 
 
 ADMIN MODULE :
 
- 
 
 
- 
 
-
- 
-
-
- 
-
- 
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/55e13a64-4075-4e2e-bfe6-14d7ec46f429)
 
 
 
 
- 
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/07910e50-1977-44ca-97d3-e9212323475a)
 
- 
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/d6f1e602-eeb2-479a-ad33-dab1810faebb)
+
+
+
+
+
 
 DOCTOR MODULE:
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/7b7111bb-8952-474c-8e66-d0731ac81db4)
+
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/1b6db9f0-4c4d-4035-9849-09a713ee3c21)
+
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/89db8e72-8cff-477e-bfec-b1d6c4c69326)
+
+
+
+
+
+
+
+
+
 
  
  
