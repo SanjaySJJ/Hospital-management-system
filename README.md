@@ -1,8 +1,8 @@
-ABSTRACT
+## ABSTRACT
 
 The Hospital Management System (HMS) proposed here offers an integrated solution for optimizing the operations of a medical facility. This system consists of two primary modules: Admin and Doctor. The zadmin module enables administrators to securely log in and access a centralized dashboard displaying key metrics like total patients and appointments. Admins can efficiently manage doctor profiles, patient records, and appointments, facilitating tasks such as scheduling, rescheduling, and cancellations. Additionally, the system provides reporting capabilities to generate insights into patient statistics, appointments, and revenue. On the other hand, the Doctor module allows medical practitioners to access their schedules, view patient histories, manage appointments, prescribe medications, and generate digital prescriptions. The system leverages modern web technologies such as HTML, CSS, JavaScript, PHP, and MySQL to deliver a user-friendly interface, robust backend functionality, and efficient data management. With role-based access control and tailored functionalities, this HMS aims to enhance operational efficiency, streamline workflow processes, and improve overall patient care within the medical facility.
 
-FEATURES
+## FEATURES
 
 Admin Module:
 
