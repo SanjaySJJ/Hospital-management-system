@@ -112,3 +112,78 @@ PRANESH N
 Role:Voice Over 
 Responsibilities:Give step by step voice to guide the project
 
+
+Azure Services used 
+AZURE SERVICES USED:
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+PROJECT LAYOUTS:
+ 
+
+ 
+
+
+ADMIN MODULE :
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+DOCTOR MODULE:
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
