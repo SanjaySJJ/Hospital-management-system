@@ -113,10 +113,18 @@ Role:Voice Over
 Responsibilities:Give step by step voice to guide the project
 
 
-Azure Services used 
+
 AZURE SERVICES USED:
+
  
 ![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/903138c6-05d5-46f7-9bdd-90d3fa2fefa6)
+
+
+
+
+
+![image](https://github.com/SanjaySJJ/Hospital-management-system/assets/162987379/a463139d-d092-4aa5-b616-68e01f6bfdbe)
+
 
  
 
