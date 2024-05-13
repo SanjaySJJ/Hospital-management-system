@@ -1,7 +1,7 @@
 <?php
 $dbuser="root";
-$dbpass="";
+$dbpass="Test@123";
 $host="localhost";
-$db="hmisphp";
+$db="hos";
 $mysqli=new mysqli($host,$dbuser, $dbpass, $db);
 ?>
