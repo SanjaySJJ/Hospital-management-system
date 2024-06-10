@@ -234,6 +234,19 @@ DOCTOR MODULE:
 YOUTUBE URL :  https://youtu.be/-0CDIq4JWtQ?feature=shared
 
 
+LOGIN DETAILS:
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Doctor Login Details**
+
+ID      : YDS7L
+Password: password
+
 
 
 
