@@ -94,23 +94,6 @@ USAGE:
 •	Provides access to patient records for consultations, diagnoses, and prescription management.
 •	Offers reporting functionalities to monitor patient progress and treatment outcomes.
 
-CONTRIBUTIONS:
-
-THABRESH U
-Role:Front end
-Responsibilities:Create and maintain project front end(PHP,CSS,JAVASCRIPT,BOOTSTRAP)
-
-ROGITH R
-Role:Back end
-Responsibilities:create and maintain project back end(PHP and MYSQL)
-
-SANJAY B
-Role:Deploy project
-Responsibilities:To deploy a Hospital management system project in azure cloud
-
-PRANESH N
-Role:Voice Over 
-Responsibilities:Give step by step voice to guide the project
 
 
 
